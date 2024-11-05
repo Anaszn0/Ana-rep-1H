@@ -1,7 +1,20 @@
-body(
-    color: black; 
-    background: blueviolet;
+ body{
+    color: white;
+    background: rgba(77, 2, 77, 0.863) ;
     font-family: "Lobster Two", sans-serif;
-    margin:0px ;
-    margin-botton: 1000px;
-)
+    margin: 0px;
+    margin-bottom: 1000px;
+ }
+.chamada{
+    background: rgba(224, 134, 236, 0.952);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+header{
+    color: aliceblue;
+    font-size: 3px;
+    border-bottom: solid 3px ;
+    padding: 20px;
+}
