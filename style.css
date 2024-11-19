@@ -1,7 +1,7 @@
  body{
     color: white;
     background: rgba(77, 2, 77, 0.863) ;
-    font-family: "Lobster Two", sans-serif;
+    font-family: "Quicksand", sans-serif;
     margin: 0px;
     margin-bottom: 1000px;
  }
@@ -17,4 +17,10 @@ header{
     font-size: 3px;
     border-bottom: solid 3px ;
     padding: 20px;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size:35px;
 }
